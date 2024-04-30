@@ -119,7 +119,7 @@
     <comps>
       <li Class="CompProperties_Glower">
         <glowRadius>2.5</glowRadius>
-        <glowColor>(56,69,70,0)</glowColor>
+        <glowColor>(119,151,152,0)</glowColor>
       </li>
     </comps>
   </ThingDef>
@@ -188,9 +188,9 @@
       <texPath>Plants/pphhyy_Lightless_Empyrean</texPath>
       <graphicClass>Graphic_Random</graphicClass>
       <shadowData>
-				<volume>(0.55, 0.2, 0.2)</volume>
-				<offset>(0,0,-0.25)</offset>
-			</shadowData>
+        <volume>(0.55, 0.2, 0.2)</volume>
+        <offset>(0,0,-0.25)</offset>
+      </shadowData>
     </graphicData>
     <altitudeLayer>Skyfaller</altitudeLayer>
     <blockLight>true</blockLight>
@@ -200,11 +200,11 @@
       <BeautyOutdoors>15</BeautyOutdoors>
     </statBases>
     <plant>
+      <wildClusterRadius>10</wildClusterRadius>
       <growDays>250</growDays>
       <harvestWork>1800</harvestWork>
       <harvestYield>150</harvestYield>
       <visualSizeRange>8~12</visualSizeRange>
-      <wildClusterWeight>10</wildClusterWeight>
     </plant>
   </ThingDef>
 
@@ -225,6 +225,7 @@
       <BeautyOutdoors>2</BeautyOutdoors>
     </statBases>
     <plant>
+      <wildClusterRadius>10</wildClusterRadius>
       <growDays>30</growDays>
       <harvestWork>1400</harvestWork>
       <harvestYield>46</harvestYield>
@@ -250,6 +251,7 @@
       <BeautyOutdoors>1</BeautyOutdoors>
     </statBases>
     <plant>
+      <wildClusterRadius>10</wildClusterRadius>
       <growDays>20</growDays>
       <harvestWork>1400</harvestWork>
       <harvestYield>24</harvestYield>

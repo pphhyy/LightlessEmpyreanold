@@ -8,7 +8,7 @@
         <workerClass>LightLess_Empyrean.BiomeWorker_LightlessEmpyrean</workerClass>
         <allowFarmingCamps>false</allowFarmingCamps>
         <animalDensity>2.8</animalDensity>
-        <plantDensity>0.40</plantDensity>
+        <plantDensity>1</plantDensity>
         <settlementSelectionWeight>0.9</settlementSelectionWeight>
         <movementDifficulty>1</movementDifficulty>
         <forageability>0.75</forageability>
@@ -110,13 +110,13 @@
         </baseWeatherCommonalities>
         <wildPlants>
           <pphhyy_LightlessEmpyrean_LightlessGrass>9.0</pphhyy_LightlessEmpyrean_LightlessGrass>
-          <pphhyy_LightlessEmpyrean_LightlessTree>1.5</pphhyy_LightlessEmpyrean_LightlessTree>
-          <pphhyy_LightlessEmpyrean_Bush>4.0</pphhyy_LightlessEmpyrean_Bush>
+          <pphhyy_LightlessEmpyrean_LightlessTree>0.5</pphhyy_LightlessEmpyrean_LightlessTree>
+          <pphhyy_LightlessEmpyrean_Bush>1.0</pphhyy_LightlessEmpyrean_Bush>
           <pphhyy_LightlessEmpyrean_BulbBush>3.0</pphhyy_LightlessEmpyrean_BulbBush>
           <pphhyy_LightlessEmpyrean_Brambles>2.0</pphhyy_LightlessEmpyrean_Brambles>
           <Plant_Ripthorn MayRequire="Ludeon.RimWorld.Biotech">4</Plant_Ripthorn>
-          <pphhyy_LightlessEmpyrean_LightlessEmpyreanTree>1.5</pphhyy_LightlessEmpyrean_LightlessEmpyreanTree>
-          <pphhyy_LightlessEmpyrean_DeadTree>1.2</pphhyy_LightlessEmpyrean_DeadTree>
+          <pphhyy_LightlessEmpyrean_LightlessEmpyreanTree>0.01</pphhyy_LightlessEmpyrean_LightlessEmpyreanTree>
+          <pphhyy_LightlessEmpyrean_DeadTree>0.3</pphhyy_LightlessEmpyrean_DeadTree>
           <Plant_Berry>0.16</Plant_Berry>
           <Plant_HealrootWild>0.16</Plant_HealrootWild>
           <Plant_TreeGrayPine MayRequire="Ludeon.RimWorld.Biotech">4</Plant_TreeGrayPine>
