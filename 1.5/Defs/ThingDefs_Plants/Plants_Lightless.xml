@@ -204,6 +204,7 @@
       <harvestWork>1800</harvestWork>
       <harvestYield>150</harvestYield>
       <visualSizeRange>8~12</visualSizeRange>
+      <wildClusterWeight>10</wildClusterWeight>
     </plant>
   </ThingDef>
 
@@ -227,6 +228,7 @@
       <growDays>30</growDays>
       <harvestWork>1400</harvestWork>
       <harvestYield>46</harvestYield>
+      <visualSizeRange>4~6</visualSizeRange>
       <wildClusterWeight>35</wildClusterWeight>
     </plant>
   </ThingDef>
@@ -251,6 +253,7 @@
       <growDays>20</growDays>
       <harvestWork>1400</harvestWork>
       <harvestYield>24</harvestYield>
+      <visualSizeRange>4~6</visualSizeRange>
       <wildClusterWeight>35</wildClusterWeight>
     </plant>
   </ThingDef>
