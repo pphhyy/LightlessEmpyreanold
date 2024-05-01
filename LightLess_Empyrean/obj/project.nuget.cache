@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pYyXEKMrtqzBO9fyreoepTrmkpfVdWaLuk4bktOju6TIWYq52WtYsfVL0pvmp7wKLSgrve+NHOkwhG8407EkCA==",
+  "dgSpecHash": "U+S/U1IJgkKbXrrn9KUqYRWjEM4+YVrRgAikxHQpwUB+Bt5aKJyT1HpOf9vqyvkVZOeCfU1jTsmNTxRGYYZvuw==",
   "success": true,
-  "projectFilePath": "/home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/LightLess_Empyrean.csproj",
+  "projectFilePath": "/home/aludis/.steam/steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/LightLess_Empyrean.csproj",
   "expectedPackageFiles": [
     "/home/aludis/.nuget/packages/krafs.rimworld.ref/1.5.4075-beta/krafs.rimworld.ref.1.5.4075-beta.nupkg.sha512",
     "/home/aludis/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"

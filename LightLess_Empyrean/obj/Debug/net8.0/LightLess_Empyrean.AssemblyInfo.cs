@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LightLess_Empyrean")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63780f88dfa0c95877511041be792db9325aedf8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7624958ca93895820582d8f821f0fa6a27b0592a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LightLess_Empyrean")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LightLess_Empyrean")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
