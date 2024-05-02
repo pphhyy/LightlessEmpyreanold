@@ -5,7 +5,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Krafs.Rimworld.Ref" Version="1.5.4075-beta"/>
-    <PackageReference Include="Lib.Harmony" Version="2.*" ExcludeAssets="runtime" />
+    <PackageReference Include="Krafs.Rimworld.Ref" Version="1.5.4075-beta" />
+    <Reference Include="Harmony">
+      <HintPath>0Harmony.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>
