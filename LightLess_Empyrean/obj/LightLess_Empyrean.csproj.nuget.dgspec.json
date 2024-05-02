@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/LightLess_Empyrean.csproj": {}
+    "/home/aludis/.steam/steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/LightLess_Empyrean.csproj": {}
   },
   "projects": {
-    "/home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/LightLess_Empyrean.csproj": {
+    "/home/aludis/.steam/steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/LightLess_Empyrean.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/LightLess_Empyrean.csproj",
+        "projectUniqueName": "/home/aludis/.steam/steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/LightLess_Empyrean.csproj",
         "projectName": "LightLess_Empyrean",
-        "projectPath": "/home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/LightLess_Empyrean.csproj",
+        "projectPath": "/home/aludis/.steam/steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/LightLess_Empyrean.csproj",
         "packagesPath": "/home/aludis/.nuget/packages/",
-        "outputPath": "/home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/obj/",
+        "outputPath": "/home/aludis/.steam/steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aludis/.nuget/NuGet/NuGet.Config"
@@ -41,6 +41,11 @@
             "Krafs.Rimworld.Ref": {
               "target": "Package",
               "version": "[1.5.4075-beta, )"
+            },
+            "Lib.Harmony": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[2.*, )"
             }
           },
           "imports": [

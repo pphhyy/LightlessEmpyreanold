@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pYyXEKMrtqzBO9fyreoepTrmkpfVdWaLuk4bktOju6TIWYq52WtYsfVL0pvmp7wKLSgrve+NHOkwhG8407EkCA==",
+  "dgSpecHash": "37VChf7xr7ru5MIBUcB/aIQYGkisCwQ1KlvhKwKV/zbw0wau672nRqNGxe820YhrMHLGrqcY4RYrxr4k0P+Z0Q==",
   "success": true,
-  "projectFilePath": "/home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/LightLess_Empyrean.csproj",
+  "projectFilePath": "/home/aludis/.steam/steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/LightLess_Empyrean.csproj",
   "expectedPackageFiles": [
     "/home/aludis/.nuget/packages/krafs.rimworld.ref/1.5.4075-beta/krafs.rimworld.ref.1.5.4075-beta.nupkg.sha512",
+    "/home/aludis/.nuget/packages/lib.harmony/2.3.3/lib.harmony.2.3.3.nupkg.sha512",
+    "/home/aludis/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/home/aludis/.nuget/packages/system.text.json/8.0.1/system.text.json.8.0.1.nupkg.sha512",
     "/home/aludis/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
   ],
   "logs": [

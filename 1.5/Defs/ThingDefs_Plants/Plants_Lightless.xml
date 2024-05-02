@@ -63,6 +63,82 @@
     </plant>
   </ThingDef>
 
+  <!--====================================== Flowers ======================================== -->
+
+  <ThingDef ParentName="PlantBase">
+    <defName>pphhyy_LightlessEmpyrean_Lily</defName>
+    <label>lightless lily</label>
+    <description>DESCRIPTION</description>
+    <statBases>
+      <MaxHitPoints>75</MaxHitPoints>
+      <Beauty>16</Beauty>
+      <BeautyOutdoors>16</BeautyOutdoors>
+      <Nutrition>0.05</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Plants/pphhyy_Lightless_Lily</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible>
+      <canAutoSelectAsFoodForCaravan>false</canAutoSelectAsFoodForCaravan>
+    </ingestible>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>750</sowWork> <!-- 100 ticks per live day -->
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+
+  <ThingDef ParentName="PlantBase">
+    <defName>pphhyy_LightlessEmpyrean_Lotus</defName>
+    <label>lightless lotus</label>
+    <description>DESCRIPTION</description>
+    <statBases>
+      <MaxHitPoints>75</MaxHitPoints>
+      <Beauty>22</Beauty>
+      <BeautyOutdoors>22</BeautyOutdoors>
+      <Nutrition>0.05</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Plants/pphhyy_Lightless_Lotus</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible>
+      <canAutoSelectAsFoodForCaravan>false</canAutoSelectAsFoodForCaravan>
+    </ingestible>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>620</sowWork> <!-- 120 ticks per live day for beauty -->
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>2</growDays>
+      <lifespanDaysPerGrowDays>7</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+
   <!--====================================== Bushes ======================================== -->
 
   <ThingDef ParentName="PlantBase">

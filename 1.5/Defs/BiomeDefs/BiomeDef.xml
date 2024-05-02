@@ -8,7 +8,7 @@
         <workerClass>LightLess_Empyrean.BiomeWorker_LightlessEmpyrean</workerClass>
         <allowFarmingCamps>false</allowFarmingCamps>
         <animalDensity>2.8</animalDensity>
-        <plantDensity>1</plantDensity>
+        <plantDensity>0.8</plantDensity>
         <settlementSelectionWeight>0.9</settlementSelectionWeight>
         <movementDifficulty>1</movementDifficulty>
         <forageability>0.75</forageability>
@@ -109,7 +109,7 @@
           <GrayPall MayRequire="Ludeon.RimWorld.Anomaly">1</GrayPall>
         </baseWeatherCommonalities>
         <wildPlants>
-          <pphhyy_LightlessEmpyrean_LightlessGrass>9.0</pphhyy_LightlessEmpyrean_LightlessGrass>
+          <pphhyy_LightlessEmpyrean_LightlessGrass>5.0</pphhyy_LightlessEmpyrean_LightlessGrass>
           <pphhyy_LightlessEmpyrean_LightlessTree>0.5</pphhyy_LightlessEmpyrean_LightlessTree>
           <pphhyy_LightlessEmpyrean_Bush>1.0</pphhyy_LightlessEmpyrean_Bush>
           <pphhyy_LightlessEmpyrean_BulbBush>3.0</pphhyy_LightlessEmpyrean_BulbBush>
@@ -117,15 +117,20 @@
           <Plant_Ripthorn MayRequire="Ludeon.RimWorld.Biotech">4</Plant_Ripthorn>
           <pphhyy_LightlessEmpyrean_LightlessEmpyreanTree>0.01</pphhyy_LightlessEmpyrean_LightlessEmpyreanTree>
           <pphhyy_LightlessEmpyrean_DeadTree>0.3</pphhyy_LightlessEmpyrean_DeadTree>
+          <pphhyy_LightlessEmpyrean_Dahlia>1.9</pphhyy_LightlessEmpyrean_Dahlia>
+          <pphhyy_LightlessEmpyrean_Lily>1.7</pphhyy_LightlessEmpyrean_Lily>
+          <pphhyy_LightlessEmpyrean_Lotus>1.8</pphhyy_LightlessEmpyrean_Lotus>
           <Plant_Berry>0.16</Plant_Berry>
           <Plant_HealrootWild>0.16</Plant_HealrootWild>
           <Plant_TreeGrayPine MayRequire="Ludeon.RimWorld.Biotech">4</Plant_TreeGrayPine>
           <Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">9.0</Plant_GrayGrass>
         </wildPlants>
         <wildAnimals>
-          <pphhyy_LightlessEmpyrean_Sirius>0.12</pphhyy_LightlessEmpyrean_Sirius>
-          <pphhyy_LightlessEmpyrean_Scutes>0.5</pphhyy_LightlessEmpyrean_Scutes>
-          <pphhyy_LightlessEmpyrean_Gaster>1</pphhyy_LightlessEmpyrean_Gaster>
+          <pphhyy_LightlessEmpyrean_Sirius>0.5</pphhyy_LightlessEmpyrean_Sirius>
+          <pphhyy_LightlessEmpyrean_Scutes>1</pphhyy_LightlessEmpyrean_Scutes>
+          <pphhyy_LightlessEmpyrean_Gaster>0.9</pphhyy_LightlessEmpyrean_Gaster>
+          <pphhyy_LightlessEmpyrean_Lemures>0.01</pphhyy_LightlessEmpyrean_Lemures>
+          <pphhyy_LightlessEmpyrean_Shade>0.6</pphhyy_LightlessEmpyrean_Shade>
         </wildAnimals>
         <pollutionWildAnimals MayRequire="Ludeon.RimWorld.Biotech">
           <WasteRat MayRequire="Ludeon.RimWorld.Biotech">1</WasteRat>

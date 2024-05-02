@@ -1,4 +1,3 @@
-/home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/bin/Debug/net8.0/LightLess_Empyrean.deps.json
 /home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/bin/Debug/net8.0/LightLess_Empyrean.dll
 /home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/bin/Debug/net8.0/LightLess_Empyrean.pdb
 /home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/obj/Debug/net8.0/LightLess_Empyrean.csproj.AssemblyReference.cache
@@ -10,4 +9,3 @@
 /home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/obj/Debug/net8.0/LightLess_Empyrean.dll
 /home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/obj/Debug/net8.0/refint/LightLess_Empyrean.dll
 /home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/obj/Debug/net8.0/LightLess_Empyrean.pdb
-/home/aludis/.local/share/Steam/steamapps/common/RimWorld/Mods/LightlessEmpyrean/LightLess_Empyrean/obj/Debug/net8.0/ref/LightLess_Empyrean.dll
