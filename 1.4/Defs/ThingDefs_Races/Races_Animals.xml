@@ -48,7 +48,6 @@
       <manhunterOnDamageChance>0.40</manhunterOnDamageChance>
       <body>pphhyy_LightlessEmpyrean_CnidarianBody</body>
       <herdAnimal>false</herdAnimal>
-      <canBecomeShambler>false</canBecomeShambler>
       <baseBodySize>0.4</baseBodySize>
       <baseHealthScale>0.4</baseHealthScale>
       <baseHungerRate>0.15</baseHungerRate>
@@ -83,7 +82,6 @@
       <soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
       <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
       <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
-      <soundEating>Herbivore_Eat</soundEating>
     </race>
   </ThingDef>
 
@@ -257,7 +255,8 @@
     </tools>
     <race>
       <predator>true</predator>
-      <canBecomeShambler>false</canBecomeShambler>
+      <manhunterOnTameFailChance>0.20</manhunterOnTameFailChance>
+      <manhunterOnDamageChance>0.45</manhunterOnDamageChance>
       <body>BeetleLike</body>
       <baseBodySize>0.2</baseBodySize>
       <baseHungerRate>0.10</baseHungerRate>
@@ -354,7 +353,6 @@
       <predator>true</predator>
       <manhunterOnTameFailChance>0.60</manhunterOnTameFailChance>
       <manhunterOnDamageChance>1.00</manhunterOnDamageChance>
-      <canBecomeShambler>false</canBecomeShambler>
       <body>Human</body>
       <hasGenders>false</hasGenders>
       <baseHealthScale>3.0</baseHealthScale>
@@ -386,7 +384,6 @@
       <soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
       <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
       <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
-      <soundEating>Herbivore_Eat</soundEating>
     </race>
     <tradeTags>
       <li>AnimalExotic</li>
@@ -394,7 +391,6 @@
     <tools>
       <li>
         <label>left fist</label>
-        <labelNoLocation>fist</labelNoLocation>
         <capacities>
           <li>Blunt</li>
         </capacities>
@@ -412,7 +408,6 @@
       </li>
       <li>
         <label>right fist</label>
-        <labelNoLocation>fist</labelNoLocation>
         <capacities>
           <li>Blunt</li>
         </capacities>
@@ -513,7 +508,6 @@
       <predator>true</predator>
       <manhunterOnTameFailChance>0.40</manhunterOnTameFailChance>
       <manhunterOnDamageChance>1.00</manhunterOnDamageChance>
-      <canBecomeShambler>false</canBecomeShambler>
       <body>Human</body>
       <hasGenders>false</hasGenders>
       <baseHungerRate>0.0001</baseHungerRate>
@@ -545,7 +539,6 @@
       <soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
       <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
       <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
-      <soundEating>Herbivore_Eat</soundEating>
     </race>
     <tradeTags>
       <li>AnimalExotic</li>
@@ -553,7 +546,6 @@
     <tools>
       <li>
         <label>left fist</label>
-        <labelNoLocation>fist</labelNoLocation>
         <capacities>
           <li>Blunt</li>
         </capacities>
@@ -571,7 +563,6 @@
       </li>
       <li>
         <label>right fist</label>
-        <labelNoLocation>fist</labelNoLocation>
         <capacities>
           <li>Blunt</li>
         </capacities>
