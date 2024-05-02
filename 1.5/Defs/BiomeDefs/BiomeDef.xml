@@ -117,9 +117,9 @@
           <Plant_Ripthorn MayRequire="Ludeon.RimWorld.Biotech">4</Plant_Ripthorn>
           <pphhyy_LightlessEmpyrean_LightlessEmpyreanTree>0.01</pphhyy_LightlessEmpyrean_LightlessEmpyreanTree>
           <pphhyy_LightlessEmpyrean_DeadTree>0.3</pphhyy_LightlessEmpyrean_DeadTree>
-          <pphhyy_LightlessEmpyrean_Dahlia>1.9</pphhyy_LightlessEmpyrean_Dahlia>
-          <pphhyy_LightlessEmpyrean_Lily>1.7</pphhyy_LightlessEmpyrean_Lily>
-          <pphhyy_LightlessEmpyrean_Lotus>1.8</pphhyy_LightlessEmpyrean_Lotus>
+          <pphhyy_LightlessEmpyrean_Dahlia>0.5</pphhyy_LightlessEmpyrean_Dahlia>
+          <pphhyy_LightlessEmpyrean_Lily>0.05</pphhyy_LightlessEmpyrean_Lily>
+          <pphhyy_LightlessEmpyrean_Lotus>0.05</pphhyy_LightlessEmpyrean_Lotus>
           <Plant_Berry>0.16</Plant_Berry>
           <Plant_HealrootWild>0.16</Plant_HealrootWild>
           <Plant_TreeGrayPine MayRequire="Ludeon.RimWorld.Biotech">4</Plant_TreeGrayPine>
