@@ -43,9 +43,8 @@
               "version": "[1.5.4075-beta, )"
             },
             "Lib.Harmony": {
-              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[2.*, )"
+              "version": "[*, )"
             }
           },
           "imports": [

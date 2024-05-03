@@ -120,7 +120,7 @@
           <pphhyy_LightlessEmpyrean_Dahlia>0.5</pphhyy_LightlessEmpyrean_Dahlia>
           <pphhyy_LightlessEmpyrean_Lily>0.05</pphhyy_LightlessEmpyrean_Lily>
           <pphhyy_LightlessEmpyrean_Lotus>0.05</pphhyy_LightlessEmpyrean_Lotus>
-          <Plant_Berry>0.16</Plant_Berry>
+          <pphhyy_LightlessEmpyrean_BerryBush>0.16</pphhyy_LightlessEmpyrean_BerryBush>
           <Plant_HealrootWild>0.16</Plant_HealrootWild>
           <Plant_TreeGrayPine MayRequire="Ludeon.RimWorld.Biotech">4</Plant_TreeGrayPine>
           <Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">9.0</Plant_GrayGrass>
