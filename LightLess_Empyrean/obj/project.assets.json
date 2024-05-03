@@ -103,7 +103,7 @@
           }
         },
         "runtime": {
-          "lib/net8.0/_._": {
+          "lib/net8.0/0Harmony.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -116,7 +116,7 @@
           }
         },
         "runtime": {
-          "lib/net8.0/_._": {
+          "lib/net8.0/System.Text.Encodings.Web.dll": {
             "related": ".xml"
           }
         },
@@ -124,7 +124,7 @@
           "buildTransitive/net6.0/_._": {}
         },
         "runtimeTargets": {
-          "runtimes/browser/lib/net8.0/_._": {
+          "runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll": {
             "assetType": "runtime",
             "rid": "browser"
           }
@@ -141,7 +141,7 @@
           }
         },
         "runtime": {
-          "lib/net8.0/_._": {
+          "lib/net8.0/System.Text.Json.dll": {
             "related": ".xml"
           }
         },
@@ -408,7 +408,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Krafs.Rimworld.Ref >= 1.5.4075-beta",
-      "Lib.Harmony >= 2.*"
+      "Lib.Harmony >= *"
     ]
   },
   "packageFolders": {
@@ -453,9 +453,8 @@
             "version": "[1.5.4075-beta, )"
           },
           "Lib.Harmony": {
-            "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "target": "Package",
-            "version": "[2.*, )"
+            "version": "[*, )"
           }
         },
         "imports": [

@@ -6,8 +6,6 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Krafs.Rimworld.Ref" Version="1.5.4075-beta" />
-    <Reference Include="Harmony">
-      <HintPath>0Harmony.dll</HintPath>
-    </Reference>
+    <PackageReference Include="Lib.Harmony" Version="*" />
   </ItemGroup>
 </Project>
