@@ -166,7 +166,7 @@
       <fertilitySensitivity>0.5</fertilitySensitivity>
       <growDays>6</growDays>
       <leaflessGraphicPath>Things/Plant/BerryPlant_Leafless</leaflessGraphicPath>
-      <immatureGraphicPath>Plants/pphhyy_Lightless_Berrybush_Immature</immatureGraphicPath>
+      <immatureGraphicPath>Plants/pphhyy_Lightless_BerryBush_Immature</immatureGraphicPath>
       <harvestYield>10</harvestYield>
       <harvestWork>250</harvestWork>
       <harvestTag>Standard</harvestTag>
